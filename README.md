@@ -42,10 +42,37 @@ Game Rules:
    *initial status refers to the player starting with 5 lives and no spells on hand
 
 
-
-**Code Requirements**
+**Game Features**
 
 - Generation of random game sets or events
 1.
 2.
 3.
+4.
+
+- Data structures for storing game status
+1.
+2.
+
+- Dynamic memory management
+1.
+2.
+
+- File input/output (e.g., for loading/saving game status)
+1.
+2.
+3.
+
+- Program codes in multiple files
+1.
+2.
+3.
+4.
+5.
+6.
+
+- Other features
+1.
+2.
+3.
+4.
