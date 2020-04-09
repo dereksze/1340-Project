@@ -5,12 +5,12 @@ NAME OF THE GAME: NEW SUPER MELIA ADVENTURE
 
 CONTACT INFORMATION: Group 100
 
-NAME: Marsha Melis
-UID: 3035683538
+NAME: Marsha Melis 
+UID: 3035683538 
 EMAIL: m3568m@connect.hku.hk
 
-NAME: Sze Ho Yin
-UID: 3035688758
+NAME: Sze Ho Yin 
+UID: 3035688758 
 EMAIL: szehoyin@connect.hku.hk
 
 
