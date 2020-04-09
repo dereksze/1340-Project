@@ -45,7 +45,7 @@ Game Rules:
 **Game Features**
 
 - Generation of random game sets or events
-1.
+1. random function is used to perform the function of a dice
 2.
 3.
 4.
