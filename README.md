@@ -44,26 +44,26 @@ Game Rules:
 
 **Game Features**
 
-1.Generation of random game sets or events
+1. Generation of random game sets or events
     - random function is used to perform the function of a dice
     - random function is applied in the exit to change the position of the door
     - random function is applied when generating the mini games
     - random function is applied when the player draws different spells
 
-2.Data structures for storing game status
+2. Data structures for storing game status
     - use a char array to save the map 
     - use struct player which includes int pos[2] with int x and int y to be the position of the player, string name to be the name of         the player, int life to record the number of lives of the player remaining and another int spell[5] to record the amount of spells       the player own
 
-3.Dynamic memory management
+3. Dynamic memory management
     - create a new struct player[] to store the data of the player as the number of players are variables
     - use a new char[] to store the current available gates in the exit and another new char[] to store the initial gate in the exit
 
-4.File input/output (e.g., for loading/saving game status)
+4. File input/output (e.g., for loading/saving game status)
     - create data directories to store the data of the player
     - create a player[].txt file to save the position, name and amount of spells when the player save the game
     - to load the previous progress, use a while loop to read the data of player[].txt  
 
-5.Program codes in multiple files
+5. Program codes in multiple files
     - main.cpp include the initialization, initial map, player data and all other header files
     - minigames[n].cpp include the detail of the mini games
     - exit.cpp include the detail arrangements of the exit (i.e the layout of the rooms in the exit)
@@ -71,7 +71,7 @@ Game Rules:
     - map.cpp to edit the changes on the map
     - initialize.cpp to perform the initialization of the game
 
-6.Other features
+6. Other features
     - Different game modes: players can choose to play with friends or the npc
     - Supporting multiple players: players can choose the total number of players (maximum 4)
     - It is a unique, fusion of tactics, mystery and adventure typed board game which has used monopoly as the prototype and amended by       our own
