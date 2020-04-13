@@ -65,11 +65,11 @@ Game Rules:
 
 5. Program codes in multiple files
     - main.cpp include the initialization, initial map, player data and all other header files
-    - minigames[n].cpp include the detail of the mini games
-    - exit.cpp include the detail arrangements of the exit (i.e the layout of the rooms in the exit)
-    - playerAI.cpp for handling the npc part of the player  
-    - map.cpp to edit the changes on the map
-    - initialize.cpp to perform the initialization of the game
+    - minigames[n].h include the detail of the mini games
+    - exit.h include the detail arrangements of the exit (i.e the layout of the rooms in the exit)
+    - playerAI.h for handling the npc part of the player  
+    - map.h to edit the changes on the map
+    - initialize.h to perform the initialization of the game
 
 6. Other features
     - Different game modes: players can choose to play with friends or the npc
